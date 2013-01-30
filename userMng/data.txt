@@ -1,0 +1,11 @@
+query.exec("create table dish(id integer primary key, name varchar(10), price varchar(10), comment varchar(20))");
+//    query.exec("insert into dish values(1, 'toofu', '8','delicious')");
+//    query.exec("insert into dish values(2, 'jiding', '10','perfect')");
+
+    query.exec("create table table1(ID integer primary key, Type varchar(10), SeatNum varchar(10), State varchar(10),BookTime varchar(10),Comment varchar(20))");
+//    query.exec("insert into table1 values(1, 'couple', '01','available', '2011-6-17','good')");
+//    query.exec("insert into table1 values(2, 'couple', '02','booked', '2011-6-17','good')");
+
+     query.exec("create table waiter(ID integer primary key, name varchar(10), gender varchar(10), age varchar(10),Comment varchar(20))");
+     query.exec("insert into waiter values(1, 'huihui', 'male','24', 'good')");
+     query.exec("insert into waiter values(2, 'dashu', 'female','24', 'good')");

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TableInfo</class>
+ <widget class="QWidget" name="TableInfo">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>580</width>
+    <height>348</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>580</width>
+     <height>348</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/images/wall3.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/images/tableIcon.png);
+font: 75 14pt &quot;Aharoni&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>T1</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>126</x>
+     <y>10</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 14pt &quot;Aharoni&quot;;border-image: url(:/images/tableIcon.png);</string>
+   </property>
+   <property name="text">
+    <string>T2</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>242</x>
+     <y>10</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 14pt &quot;Aharoni&quot;;border-image: url(:/images/tableIcon.png);</string>
+   </property>
+   <property name="text">
+    <string>T3</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>356</x>
+     <y>10</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 14pt &quot;Aharoni&quot;;border-image: url(:/images/tableIcon.png);</string>
+   </property>
+   <property name="text">
+    <string>T4</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>472</x>
+     <y>10</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 14pt &quot;Aharoni&quot;;border-image: url(:/images/tableIcon.png);</string>
+   </property>
+   <property name="text">
+    <string>T5</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_9">
+   <property name="geometry">
+    <rect>
+     <x>356</x>
+     <y>126</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 14pt &quot;Aharoni&quot;;border-image: url(:/images/tableIcon.png);</string>
+   </property>
+   <property name="text">
+    <string>T9</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_8">
+   <property name="geometry">
+    <rect>
+     <x>242</x>
+     <y>126</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 14pt &quot;Aharoni&quot;;border-image: url(:/images/tableIcon.png);</string>
+   </property>
+   <property name="text">
+    <string>T8</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_6">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>126</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 14pt &quot;Aharoni&quot;;border-image: url(:/images/tableIcon.png);</string>
+   </property>
+   <property name="text">
+    <string>T6</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_10">
+   <property name="geometry">
+    <rect>
+     <x>472</x>
+     <y>126</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 14pt &quot;Aharoni&quot;;border-image: url(:/images/tableIcon.png);</string>
+   </property>
+   <property name="text">
+    <string>T10</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_7">
+   <property name="geometry">
+    <rect>
+     <x>126</x>
+     <y>126</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 14pt &quot;Aharoni&quot;;border-image: url(:/images/tableIcon.png);</string>
+   </property>
+   <property name="text">
+    <string>T7</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_14">
+   <property name="geometry">
+    <rect>
+     <x>356</x>
+     <y>242</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/images/tableIcon.png);
+font: 75 14pt &quot;Aharoni&quot;;</string>
+   </property>
+   <property name="text">
+    <string>T14</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_13">
+   <property name="geometry">
+    <rect>
+     <x>242</x>
+     <y>242</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/images/tableIcon.png);
+font: 75 14pt &quot;Aharoni&quot;;</string>
+   </property>
+   <property name="text">
+    <string>T13</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_11">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>242</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 14pt &quot;Aharoni&quot;;border-image: url(:/images/tableIcon.png);</string>
+   </property>
+   <property name="text">
+    <string>T11</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_exit">
+   <property name="geometry">
+    <rect>
+     <x>472</x>
+     <y>242</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/images/pause1.png);
+font: 75 14pt &quot;Aharoni&quot;;
+
+</string>
+   </property>
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_12">
+   <property name="geometry">
+    <rect>
+     <x>126</x>
+     <y>242</y>
+     <width>96</width>
+     <height>96</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 14pt &quot;Aharoni&quot;;border-image: url(:/images/tableIcon.png);</string>
+   </property>
+   <property name="text">
+    <string>T12</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
